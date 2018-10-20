@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "content": "你好",
+    "user_id": 1,
+    "weibo_id": 0
+  },
+  {
+    "id": 1,
+    "content": "123",
+    "user_id": 1,
+    "weibo_id": 1
+  },
+  {
+    "id": 2,
+    "content": "123",
+    "user_id": 1,
+    "weibo_id": 0
+  },
+  {
+    "id": 3,
+    "content": "123",
+    "user_id": 1,
+    "weibo_id": 0
+  }
+]

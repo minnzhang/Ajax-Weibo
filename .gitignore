@@ -1,0 +1,4 @@
+*.pyc
+log.gua.txt
+.idea
+.DS_store
